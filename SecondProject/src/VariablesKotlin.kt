@@ -30,4 +30,13 @@ fun main(args:Array<String>){
     //concatenation operator   +
     println("\n My name is " + name + " amd I am" + age + " years old and my phone number is " + phone)
 
+
+
+    // Var vs Val
+    var c=20  //value can be changed or updated
+    c=30     //not gives any error
+
+    val d=20   //cannot be changed or updated
+    //d=30  gives error
+
 }
