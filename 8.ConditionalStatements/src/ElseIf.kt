@@ -1,12 +1,6 @@
 /**
  * Created by Dell on 6/30/2017.
  */
-/**
- * Created by Dell on 6/30/2017.
- */
-/**
- * Created by Dell on 6/30/2017.
- */
 fun main(args:Array<String>){
 
     //Else If Statement
